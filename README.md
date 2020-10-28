@@ -27,7 +27,7 @@ The classification labels are:
 
 For my purpose I used a CNN model with the following architecture:
 
-<img src=""/>
+<img src="https://github.com/samirsalman/Pneumonia-RX-Classifier/blob/main/arch.PNG"/>
 
 
 ## Test Results
