@@ -41,7 +41,7 @@ The results with batch size = 8 are the following.
 
 model  | accuracy 
 --|--
-RX Pneumonia Detector v1.0  | **77,78%** 
+RX Pneumonia Detector v1.0  | **65,87%** 
 
 
 ## Future Work
