@@ -37,11 +37,11 @@ For my purpose I used a CNN model with the following architecture:
 
 ## Test Results
 
-The results with batch size = 8 are the following.
+The results with batch size 32 and 6 epochs are the following.
 
 model  | accuracy 
 --|--
-RX Pneumonia Detector v1.0  | **65,87%** 
+RX Pneumonia Detector v1.0  | **67,95%** 
 
 
 ## Future Work
