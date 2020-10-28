@@ -1,10 +1,15 @@
 # Pneumonia-RX-Classifier
 Pneumonia RX Classifier is a CNN model created with TensorFlow in order to distinguish type of pneumonia from RX image. 
 
-Colab Work is aviable at: ```https://colab.research.google.com/drive/1qAAclorvsUkmgDXpHhUG267Ibh3UkblL?usp=sharing```.
+Colab Work is aviable at: 
+
+```https://colab.research.google.com/drive/1qAAclorvsUkmgDXpHhUG267Ibh3UkblL?usp=sharing```.
 
 ## Dataset
-The dataset used in this project is Chest X-Ray Images (Pneumonia), aviable at: ```https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia```.
+The dataset used in this project is Chest X-Ray Images (Pneumonia), aviable at: 
+
+```https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia```.
+
 It contains 5,863 images of RX.
 
 Dataset is splitted in three parts:
