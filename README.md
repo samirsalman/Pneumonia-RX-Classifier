@@ -47,7 +47,7 @@ RX Pneumonia Detector v1.0  | **62,34%**
 ## Future Work
 
 - Improve model performances
-- Measure with precision, recall and f1 measure
+- Measure system with precision, recall and f1 measure
 - Data Augmentation
 
 
