@@ -41,7 +41,7 @@ The results with batch size 32 and 6 epochs are the following.
 
 model  | accuracy 
 --|--
-RX Pneumonia Detector v1.0  | **67,95%** 
+RX Pneumonia Detector v1.0  | **62,34%** 
 
 
 ## Future Work
